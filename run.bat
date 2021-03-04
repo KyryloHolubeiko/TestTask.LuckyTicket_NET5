@@ -1,0 +1,1 @@
+start "" D:\IT_STEP\Test_Task\Test_Task.Lucky_Ticket_NET5\bin\Debug\net5.0\Test_Task.Lucky_Ticket_NET5.exe
